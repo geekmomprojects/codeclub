@@ -2,6 +2,9 @@
 Code club links and exercises
 
 ## Microbit Code:
+[Coin Flipper](https://makecode.microbit.org/S74779-29473-22388-91304)
+<br><br>
+
 [Rock Paper Scissors](https://bit.ly/4BjuDq1) - From this link, click the "edit" button to enter the code editor
 <a href="[https://www.youtube.com/watch?v=zY7c4jWUfVQ](https://bit.ly/4BjuDq1)"> <br><br> <img src="./images/rps.JPG" width="500px"><img src="./Images/OctahedronOff.jpg" width="300px"></a>
 
