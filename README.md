@@ -2,7 +2,7 @@
 Code club links and exercises
 
 ## Microbit Code:
-[Coin Flipper](https://makecode.microbit.org/S74779-29473-22388-91304)
+[Coin Flipper](https://makecode.microbit.org/S74779-29473-22388-91304). <- from this link, click the "edit" button to enter the code editor
 <br><br>
 
 [Rock Paper Scissors](https://bit.ly/4BjuDq1) - From this link, click the "edit" button to enter the code editor
