@@ -11,3 +11,12 @@
 ## Tuesday, October 20
 
 [Step Counter](https://makecode.microbit.org/S75838-00722-97568-24349)
+
+## Tuesday, October 27
+### Touch Timer
+<img src="./images/touchTimer.png" width="500px">
+<br>
+
+### Hot Potato
+<img src="./images/hotPotato.png" width="500px">
+<br>
