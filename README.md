@@ -1,5 +1,4 @@
 # Code club links and exercises
-Code club links and exercises
 
 ## Tuesday, October 13
 
